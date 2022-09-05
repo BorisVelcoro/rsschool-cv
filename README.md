@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BorisVelcoro.github.io/rsschool-cv/cv
