@@ -11,17 +11,21 @@ I am a currently studying Frontend development with the hope of working in that 
 * HTML/CSS
 * JavaScript
 * Git
+
 ## Code Example
 ```
 function maskify(cc) {
   return cc.length < 5 ? cc : "#".repeat(cc.length - 4) + cc.substring(cc.length - 4, cc.length);
 }
 ```
+
 ## Education
 * __Udemy__
   + [HTML](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
   + [CSS](https://www.udemy.com/course/advanced-css-and-sass/)
   + [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+
+  
 ## Languages
 * __Russian__ - native
 * __English__ - С1
